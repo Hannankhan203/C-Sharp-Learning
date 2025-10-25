@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Test\\Test.csproj": {}
+    "D:\\Coding Languages\\C# Language\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Test\\Test.csproj": {
+    "D:\\Coding Languages\\C# Language\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\Coding Languages\\C# Language\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\C#\\Test\\Test.csproj",
+        "projectPath": "D:\\Coding Languages\\C# Language\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Abdul Hannan Khan\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Test\\obj\\",
+        "outputPath": "D:\\Coding Languages\\C# Language\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdul Hannan Khan\\AppData\\Roaming\\NuGet\\NuGet.Config"
