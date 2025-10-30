@@ -1,0 +1,15 @@
+D:\Coding Languages\C# Language\Stack\stack\bin\Debug\net9.0\stack.exe
+D:\Coding Languages\C# Language\Stack\stack\bin\Debug\net9.0\stack.deps.json
+D:\Coding Languages\C# Language\Stack\stack\bin\Debug\net9.0\stack.runtimeconfig.json
+D:\Coding Languages\C# Language\Stack\stack\bin\Debug\net9.0\stack.dll
+D:\Coding Languages\C# Language\Stack\stack\bin\Debug\net9.0\stack.pdb
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.AssemblyInfoInputs.cache
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.AssemblyInfo.cs
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.csproj.CoreCompileInputs.cache
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.sourcelink.json
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.dll
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\refint\stack.dll
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.pdb
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\stack.genruntimeconfig.cache
+D:\Coding Languages\C# Language\Stack\stack\obj\Debug\net9.0\ref\stack.dll

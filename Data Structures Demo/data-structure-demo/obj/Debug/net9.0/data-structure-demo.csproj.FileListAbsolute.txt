@@ -1,0 +1,15 @@
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\bin\Debug\net9.0\data-structure-demo.exe
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\bin\Debug\net9.0\data-structure-demo.deps.json
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\bin\Debug\net9.0\data-structure-demo.runtimeconfig.json
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\bin\Debug\net9.0\data-structure-demo.dll
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\bin\Debug\net9.0\data-structure-demo.pdb
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.AssemblyInfoInputs.cache
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.AssemblyInfo.cs
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.csproj.CoreCompileInputs.cache
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.sourcelink.json
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.dll
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\refint\data-structure-demo.dll
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.pdb
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\data-structure-demo.genruntimeconfig.cache
+D:\Coding Languages\C# Language\Data Structures Demo\data-structure-demo\obj\Debug\net9.0\ref\data-structure-demo.dll
